@@ -1,0 +1,104 @@
+
+
+{
+
+    "categorias": [
+        {"id": 1, "nombre": "Helados"},
+        {"id": 2, "nombre": "Chocolates"},
+        {"id": 3, "nombre": "Golosinas"}
+    ],
+
+
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Helado de Menta",
+            "descripcion": "menta granizada",
+            "precio": 200,
+            "categoria": 1,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/8f29d7ac-1937-4987-b894-8ba0ab136023/Default_helado_de_chocolate_1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Bombón de Chocolate",
+            "descripcion": "chocolate amargo",
+            "precio": 250,
+            "categoria": 2,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/ef201ec2-86ea-44cb-b315-5fb1d92d6f98/Default_bombon_de_chocolate_1.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Chicles",
+            "descripcion": "marca bubaloo",
+            "precio": 300,
+            "categoria": 3,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/156c252d-edfb-4aee-a72a-462f33081ceb/Default_chicle_bubaloo_0.jpg"
+        },  
+        {
+            "id": 4,
+            "nombre": "Tableta de chocolate",
+            "descripcion": "Chocolate blanco ",
+            "precio": 180,
+            "categoria": 2,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/8c416f3a-de2e-47f4-942d-115208b5193d/Default_tableta_de_chocolate_blanco_1.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Helado de frutilla",
+            "descripcion": "con frutillas cortadas",
+            "precio": 260,
+            "categoria": 1,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/77a25a30-19c6-4606-bab4-4ed94a1db1e0/Default_helado_de_frutilla_0.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Helado de Menta",
+            "descripcion": "menta granizada",
+            "precio": 200,
+            "categoria": 1,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/8f29d7ac-1937-4987-b894-8ba0ab136023/Default_helado_de_chocolate_1.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Bombón de Chocolate",
+            "descripcion": "chocolate amargo",
+            "precio": 250,
+            "categoria": 2,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/ef201ec2-86ea-44cb-b315-5fb1d92d6f98/Default_bombon_de_chocolate_1.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Chicles",
+            "descripcion": "marca bubaloo",
+            "precio": 300,
+            "categoria": 3,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/156c252d-edfb-4aee-a72a-462f33081ceb/Default_chicle_bubaloo_0.jpg"
+        },  
+        {
+            "id": 9,
+            "nombre": "Tableta de chocolate",
+            "descripcion": "Chocolate blanco ",
+            "precio": 180,
+            "categoria": 2,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/8c416f3a-de2e-47f4-942d-115208b5193d/Default_tableta_de_chocolate_blanco_1.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Helado de frutilla",
+            "descripcion": "con frutillas cortadas",
+            "precio": 260,
+            "categoria": 1,
+            "stock": 100,
+            "imagen": "https://cdn.leonardo.ai/users/068d3581-4154-45c0-8bce-3d037961a95f/generations/77a25a30-19c6-4606-bab4-4ed94a1db1e0/Default_helado_de_frutilla_0.jpg"
+        }
+    ]
+}
